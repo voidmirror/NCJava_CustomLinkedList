@@ -1,0 +1,118 @@
+Stock: Add to list: 912800
+Custom: Add to list: 976700
+
+Stock: Add to list: 1207800
+Custom: Add to list: 1044500
+
+Stock: Add to list: 1090800
+Custom: Add to list: 1018400
+
+Stock: Add to list: 1241600
+Custom: Add to list: 842600
+
+Stock: Add to list: 1056300
+Custom: Add to list: 1095100
+
+============================================================
+
+Stock: Add to list: 638700
+Stock: Add to list: 1105000
+Stock: Add to list: 856900
+Stock: Add to list: 996900
+Stock: Add to list: 971900
+
+Stock: Add to list: 855700
+Stock: Add to list: 859300
+Stock: Add to list: 763600
+Stock: Add to list: 1284300
+Stock: Add to list: 881900
+
+Custom: Add to list: 1059600
+Custom: Add to list: 1077500
+Custom: Add to list: 1431300
+Custom: Add to list: 1123600
+Custom: Add to list: 1377400
+
+Custom: Add to list: 1638700
+Custom: Add to list: 1185000
+Custom: Add to list: 1675500
+Custom: Add to list: 1261800
+Custom: Add to list: 1248800
+
+ArrayList: Add to list: 984700
+ArrayList: Add to list: 1268000
+ArrayList: Add to list: 1210100
+ArrayList: Add to list: 1200400
+ArrayList: Add to list: 1143800
+
+============================================================
+
+Stock: Print iterator.next(): 13633300
+Stock: Print iterator.next(): 14983900
+Stock: Print iterator.next(): 11148800
+Stock: Print iterator.next(): 12493000
+Stock: Print iterator.next(): 11490900
+
+Stock: Print iterator.next(): 13170300
+Stock: Print iterator.next(): 13696600
+Stock: Print iterator.next(): 15264600
+Stock: Print iterator.next(): 12965800
+Stock: Print iterator.next(): 13122700
+
+Custom: Print iterator.next(): 17461200
+Custom: Print iterator.next(): 18911700
+Custom: Print iterator.next(): 18688700
+Custom: Print iterator.next(): 18821000
+Custom: Print iterator.next(): 18787500
+
+Custom: Print iterator.next(): 17091600
+Custom: Print iterator.next(): 18771300
+Custom: Print iterator.next(): 18394800
+Custom: Print iterator.next(): 17528100
+Custom: Print iterator.next(): 19728000
+
+ArrayList: Print iterator.next(): 15537100
+ArrayList: Print iterator.next(): 14674300
+ArrayList: Print iterator.next(): 12294700
+ArrayList: Print iterator.next(): 12741500
+ArrayList: Print iterator.next(): 12346300
+
+============================================================
+
+Stock: Clear: 31800
+Stock: Clear: 37300
+Stock: Clear: 42100
+Stock: Clear: 52900
+Stock: Clear: 45100
+
+Custom: Clear: 174500
+Custom: Clear: 193200
+Custom: Clear: 165300
+Custom: Clear: 219300
+Custom: Clear: 120900
+
+ArrayList: Clear: 26700
+ArrayList: Clear: 28000
+ArrayList: Clear: 37000
+ArrayList: Clear: 27100
+ArrayList: Clear: 36400
+
+============================================================
+
+Stock: remove(): 1247600
+Stock: remove(): 1170100
+Stock: remove(): 963500
+Stock: remove(): 1013300
+Stock: remove(): 1163900
+
+Custom: remove(): 1572300
+Custom: remove(): 1217100
+Custom: remove(): 1468700
+Custom: remove(): 1280600
+Custom: remove(): 1058100
+
+ArrayList: remove(): 860100
+ArrayList: remove(): 1193000
+ArrayList: remove(): 1384700
+ArrayList: remove(): 715900
+ArrayList: remove(): 993500
